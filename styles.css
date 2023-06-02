@@ -1,0 +1,28 @@
+h1, h2, h3{
+	color:green;
+}
+
+#shun{
+	color:red;
+	font-size:30px
+}
+
+#nk1{
+	border: 2px solid lime
+}
+
+#nk2{
+	border: 2px solid red
+}
+
+#nk3{
+	border: 2px dashed red
+}
+
+#nk4{
+	border: 2px solid grey
+}
+
+#nk5{
+	border: 2px solid grey
+}
